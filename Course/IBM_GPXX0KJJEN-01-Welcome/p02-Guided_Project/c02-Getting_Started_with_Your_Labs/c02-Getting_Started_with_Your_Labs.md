@@ -1,0 +1,3 @@
+# Getting Started with Your Labs
+
+This guided project includes two labs.  During your first lab, you’ll begin by using Node.js and npm to create the time-honored beginner’s application, “Hello World.”  Next, you’ll run your “Hello Word” application so that you can see your output. Then, learn how to create HTML-friendly output for your Hello World app. You’ll add color to the background and the words and learn how to adjust the text size.  Your second lab focuses on back-end tasks. You’ll gain experience running Node.JS commands using the terminal, write a JavaScript file and learn how to use operators, controls, and loops.
